@@ -119,7 +119,7 @@ The architecture of **NucleoCare** is designed for real-time biomedical signal p
 
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 
 
